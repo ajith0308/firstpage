@@ -1,0 +1,93 @@
+body{
+
+    background-image: url(https://lh4.googleusercontent.com/proxy/kFIJNnm2DMbS3B5LXaIdm2JKI6twGWwmzQbcJCfqTfuaH_ULD50v1Z3BGPEF32xTPRvgGLx492zcy_kcatCde2wmz-9ZYFqifbJRMl2DzyE=w3840-h2160-p-k-no-nd-mv);
+    background-size:1600px,1500px;
+}
+#Gmail,#Gimage
+{
+    color: white;
+}
+
+.Google
+{
+    position:absolute;
+    left:43%;
+    top:20%;
+
+}
+.searchbox
+{
+    position:absolute;
+    left:30%;
+    top:40%;
+    
+
+
+}
+.sbox
+{
+    height: 54px;
+    left: 0;
+    right: 0;
+    width:700px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    text-align: center;
+    
+}
+.srcicon
+{
+    height:25px;
+    fill: #6b6e73;
+    background: white;
+    border-radius:5px;
+    position: absolute;
+    left:2%;
+    top:30%;
+}
+
+.searcicon
+{
+    position:absolute;
+    left: 90%;
+    top:30%;
+
+    
+}
+.ic{
+    display: inline-flex;
+    position: absolute;
+    left:20%;
+    top:45%;
+}
+.ic2
+{
+    display: inline-flex;
+    position: absolute;
+    left:38%;
+    top:60%;
+
+}
+.innerimag{
+    position:relative;
+    left:40%;
+    top: 50%;
+    margin-left:50px;
+    height: 80px;
+    width: 80px;
+    padding:10px;
+
+    
+}
+.txt{
+    position: relative;
+    left: 89%;
+    top: 55%;
+    color: rgb(255, 255, 255);
+}
+
+.pen{
+    position:fixed;
+    top: 94%;
+    left: 95%;
+}
